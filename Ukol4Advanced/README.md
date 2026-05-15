@@ -13,4 +13,4 @@ The project displays an introductory hero section with the exhibition program an
 
 ## How to Run
 
-The project does not require any server. Just open `galerie.html` in a browser.
+Just open `galerie.html` in a browser.
